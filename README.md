@@ -1,7 +1,7 @@
 MovieShowtimes
 ==============
 
-CLI tool for finding movie showtimes.
+CLI tool for finding movie showtimes. Scrapes the google movie showtimes for information.
 
 ##Usage
 You can find movies near you using:
